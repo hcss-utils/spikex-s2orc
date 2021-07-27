@@ -1,0 +1,2 @@
+cython
+spikex==0.5.2
