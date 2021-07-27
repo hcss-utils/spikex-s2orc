@@ -25,3 +25,8 @@ $ jupyter lab
 ```
 
 and head over to `notebooks/` folder.
+
+## Links
+
+- check out `spikeX` [repository](https://github.com/erre-quadro/spikex) over here
+- visit allenai's [repository](https://github.com/allenai/s2orc) to learn more about S2ORC project
